@@ -1,0 +1,92 @@
+[
+  {
+    "name": "New Year's Day",
+    "date": "01/01",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Day after New Year's Day",
+    "date": "01/02",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "EDSA People Power Revolution",
+    "date": "02/25",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "Maundy Thursday",
+    "date": "03/28",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Good Friday",
+    "date": "03/29",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Black Saturday",
+    "date": "03/30",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "Araw ng Kagitingan",
+    "date": "04/09",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Labor Day",
+    "date": "05/01",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Independence Day",
+    "date": "06/12",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Ninoy Aquino Day",
+    "date": "08/21",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "National Heroes Day",
+    "date": "08/26",
+    "type": "REGULAR"
+  },
+  {
+    "name": "All Saints' Day",
+    "date": "11/01",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "All Souls' Day",
+    "date": "11/02",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "Bonifacio Day",
+    "date": "11/30",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Feast of the Immaculate Conception of Mary",
+    "date": "12/08",
+    "type": "SPECIAL_NON_WORKING"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "12/25",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Rizal Day",
+    "date": "12/30",
+    "type": "REGULAR"
+  },
+  {
+    "name": "Last Day of the Year",
+    "date": "12/31",
+    "type": "SPECIAL_NON_WORKING"
+  }
+]

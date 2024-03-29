@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "nuxt": "^3.11.1",
+    "primevue": "^3.50.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "dayjs-nuxt": "^2.1.9",
+    "nuxt-primevue": "^0.3.1"
   }
 }
