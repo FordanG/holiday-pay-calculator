@@ -1,4 +1,11 @@
 <template>
+  <Head>
+    <Script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9292445827184437"
+      crossorigin="anonymous"
+    ></Script>
+  </Head>
   <div>
     <p>Current Day: {{ currentDay }}</p>
 
